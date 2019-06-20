@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [jianzhonghe@outlook.com](mailto:jianzhonghe@outlook.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-17777873059](tel:+86-17777873059)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 2613, Yihe Road, HaiDian District
 >
-> London
+> Beijing
 >
-> United Kingdom
+> China
 
 ---
 
