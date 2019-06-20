@@ -3,7 +3,7 @@ url: "home.jianzhong.cn"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./pku-logo.png"
+ins_logo: "./pkulogo.png"
 
 tracking_id: #
 
