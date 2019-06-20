@@ -18,6 +18,12 @@ My research interest include Edge Detection, Semantic Segmentation, and Deep Lea
 1. **Jianzhong He**, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(**CVPR2019**).
 2. **Jianzhong He**, Xiaobin Liu and Shiliang Zhang: EAGER: Edge-Aided imaGe undERstanding System(**ICMR2019**).
 
+## Skills
+
+• Programming Level: Familiar with C, C++ and Python ect. programming language and Caffe, Pytorch and MXNET etc. deep learning frame work. And with some knowledge of SQL, HTML and Javascript etc.
+• Research Field: I'm interested in edge detection and image segmentation, and has some knowledge of Object detection, person re-id and fine-grained classification.
+• English: CET-6(479)
+
 <!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
@@ -39,11 +45,19 @@ Here is a blockquote
 > To a great mind, nothing is little -->
 
 <!-- ## References -->
-## Reference
+<!-- ## Reference
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-*
-*
-*
-*
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+
+## Rewards
+* Merit Student, Peking University, 2018
+* Postgraduate special scholarship of EECS, Peking University Dec. 2017
+* IBM mainframe application of 2014 national campus competition, Single Group, 2nd
+* Prize and Team Group, 3rd Prize Dec. 2014
+* The 39th ACM-ICPC international collegiate programming competition, Xi'an, Asian regional competition, Bronze medal Oct. 2014
+* The 5th "blue bridge cup" national software and information technology talent competition, 1st Prize of Province and 3rd Prize of National May. 2014
+* "Challenge cup" web design competition of sichuan university, 2 nd Prize Nov. 2013
+* National Scholarship, Sichuan University comprehensive first class scholarship 2014 -- 2015
+* IBM Outstanding Student 2015 Scholarship Dec. 2015
+* Sichuan University comprehensive second class scholarship, National Inspirational Scholarship 2013 -- 2014
