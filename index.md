@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="jianzhong.jpg">
-Hi! I am a junior year student of Master at School of Electronics Engineering and Computer Science, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Shiliang Zhang](www.pkuvmc.com). I've received the B.E. degree from School of Computer Science of [Sichuan University](http://www.scu.edu.cn/) in 2016. I'm familiar with C/C++, Java, Python and Caffe, Pytorch.
+Hi! I am a junior year student of Master at School of Electronics Engineering and Computer Science, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Shiliang Zhang](https://www.pkuvmc.com). I've received the B.E. degree from School of Computer Science of [Sichuan University](http://www.scu.edu.cn/) in 2016. I'm familiar with C/C++, Java, Python and Caffe, Pytorch.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
