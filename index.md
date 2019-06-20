@@ -55,13 +55,14 @@ Here is a blockquote
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
 
-## Rewards
+## Awards
 * Merit Student, Peking University, 2018
 * Postgraduate special scholarship of EECS, Peking University Dec. 2017
-* IBM mainframe application of 2014 national campus competition, Single Group, 2nd Prize and Team Group, 3rd Prize Dec. 2014
+* IBM mainframe application of 2014 national campus competition, Single Group, 2<sup>nd<sup> Prize and Team Group, 3<sup>rd<sup> Prize Dec. 2014
 * The 39th ACM-ICPC international collegiate programming competition, Xi'an, Asian regional competition, Bronze medal Oct. 2014
-* The 5th "blue bridge cup" national software and information technology talent competition, 1st Prize of Province and 3rd Prize of National May. 2014
-* "Challenge cup" web design competition of sichuan university, 2 nd Prize Nov. 2013
+* The 5th "blue bridge cup" national software and information technology talent competition, 1<sup>st<sup> Prize of Province and 3<sup>rd<sup> Prize of National May. 2014
+* "Challenge cup" web design competition of sichuan university, 2<sup>nd<sup> Prize Nov. 2013
 * National Scholarship, Sichuan University comprehensive first class scholarship 2014 -- 2015
 * IBM Outstanding Student 2015 Scholarship Dec. 2015
-* Sichuan University comprehensive second class scholarship, National Inspirational Scholarship 2013 -- 2014
+* Sichuan University comprehensive second class scholarship 2013 -- 2014
+* National Inspirational Scholarship 2013 -- 2014
