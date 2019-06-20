@@ -58,8 +58,7 @@ Here is a blockquote
 ## Rewards
 * Merit Student, Peking University, 2018
 * Postgraduate special scholarship of EECS, Peking University Dec. 2017
-* IBM mainframe application of 2014 national campus competition, Single Group, 2nd
-* Prize and Team Group, 3rd Prize Dec. 2014
+* IBM mainframe application of 2014 national campus competition, Single Group, 2nd Prize and Team Group, 3rd Prize Dec. 2014
 * The 39th ACM-ICPC international collegiate programming competition, Xi'an, Asian regional competition, Bronze medal Oct. 2014
 * The 5th "blue bridge cup" national software and information technology talent competition, 1st Prize of Province and 3rd Prize of National May. 2014
 * "Challenge cup" web design competition of sichuan university, 2 nd Prize Nov. 2013
