@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="jianzhong.jpg">
-Hi! I am a junior year student of Master at School of Electronics Engineering and Computer Science, [Peking University](https://www.pku.edu.cn/), under the supervision by Prof. [Shiliang Zhang](www.pkuvmc.com). I've received the B.E. degree from [Sichuan University](http://www.scu.edu.cn/) in 2016.
+Hi! I am a junior year student of Master at School of Electronics Engineering and Computer Science, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Shiliang Zhang](www.pkuvmc.com). I've received the B.E. degree from School of Computer Science of [Sichuan University](http://www.scu.edu.cn/) in 2016. I'm familiar with C/C++, Java, Python and Caffe, Pytorch.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
@@ -15,8 +15,8 @@ My research interest include Edge Detection, Semantic Segmentation, and Deep Lea
 
 ## Publications
 
-1. Jianzhong He, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(CVPR2019).
-2. Jianzhong He, Xiaobin Liu and Shiliang Zhang: EAGER: Edge-Aided imaGe undERstanding System(ICMR2019).
+1. **Jianzhong He**, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(**CVPR2019**).
+2. **Jianzhong He**, Xiaobin Liu and Shiliang Zhang: EAGER: Edge-Aided imaGe undERstanding System(**ICMR2019**).
 
 <!-- ## Typography
 
@@ -39,7 +39,11 @@ Here is a blockquote
 > To a great mind, nothing is little -->
 
 <!-- ## References -->
-## Recommended Papers
+## Reference
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+*
+*
+*
+*
