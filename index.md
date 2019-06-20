@@ -20,9 +20,9 @@ My research interest include Edge Detection, Semantic Segmentation, and Deep Lea
 
 ## Skills
 
-• Programming Level: Familiar with C, C++ and Python ect. programming language and Caffe, Pytorch and MXNET etc. deep learning frame work. And with some knowledge of SQL, HTML and Javascript etc.
-• Research Field: I'm interested in edge detection and image segmentation, and has some knowledge of Object detection, person re-id and fine-grained classification.
-• English: CET-6(479)
+* Programming Level: Familiar with C, C++ and Python ect. programming language and Caffe, Pytorch and MXNET etc. deep learning frame work. And with some knowledge of SQL, HTML and Javascript etc.
+* Research Field: I'm interested in edge detection and image segmentation, and has some knowledge of Object detection, person re-id and fine-grained classification.
+* English: CET-6(479)
 
 <!-- ## Typography
 
