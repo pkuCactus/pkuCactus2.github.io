@@ -13,6 +13,11 @@ Hi! I am a junior year student of Master at School of Electronics Engineering an
 
 My research interest include Edge Detection, Semantic Segmentation, and Deep Learning.
 
+## Experience
+* Intership in Horizon Robotics Inc., May 2018 -- May 2019
+* Vice president of IBM Club, Sichuan University, 2014 -- 2015
+* Vice president of Web Development Association, SiChuan University, 2014 -- 2015
+
 ## Publications
 
 1. **Jianzhong He**, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(**CVPR2019**).
