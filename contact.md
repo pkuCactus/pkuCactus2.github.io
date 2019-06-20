@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jianzhonghe@outlook.com](mailto:jianzhonghe@outlook.com)
+* Email: [jianzhonghe AT outlook DOT com](mailto:jianzhonghe@outlook.com)
 
-* Phone: [+86-17777873059](tel:+86-17777873059)
+* Phone: [+86-壹柒柒柒柒捌柒叁零伍玖](tel:+86-17777873059)
 
 ---
 
