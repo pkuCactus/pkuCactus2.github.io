@@ -18,7 +18,7 @@ My research interest include Edge Detection, Semantic Segmentation, and Deep Lea
 1. Jianzhong He, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(CVPR2019).
 2. Jianzhong He, Xiaobin Liu and Shiliang Zhang: EAGER: Edge-Aided imaGe undERstanding System(ICMR2019).
 
-## Typography
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -36,9 +36,10 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> To a great mind, nothing is little -->
 
-## References
+<!-- ## References -->
+## Recommended Papers
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
