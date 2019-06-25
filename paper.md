@@ -1,5 +1,5 @@
 ---
-layout: paper
+layout: default
 ---
 
 ## Papers
