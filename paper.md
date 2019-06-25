@@ -6,7 +6,5 @@ layout: paper
 
 The below are the paper list read and to read.
 
-### Segmentation
 
-### Edge Detection
 
