@@ -1,6 +1,8 @@
 # Researcher
 
-### [Demo Website](http://ankitsultana.com/researcher)
+This is fork from 
+
+### [Demo Website](http://home.jianzhonghe.cn)
 
 A clean, single column, monospace resume template built for jekyll
 
@@ -41,7 +43,7 @@ nav:
 * To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
 ```html
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="jianzhong.jpg">
 ```
 
 * You can remove/customize the footer as you like by setting the
@@ -51,7 +53,7 @@ appropriate variables in `_config.yml`
 to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
 value
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+![Institute Logo Image Sample](https://www.pku.edu.cn/img/pkulogo_grey.png)
 
 **Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
