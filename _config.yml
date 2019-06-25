@@ -5,7 +5,7 @@ baseurl: "/"
 markdown: kramdown
 # ins_logo: "./pkulogo.png"
 
-tracking_id: #
+tracking_id: true #
 
 footer: yes
 footer_url: "https://github.com/pkuCactus"
