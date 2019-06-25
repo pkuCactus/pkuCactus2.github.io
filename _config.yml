@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 favicon: yes
-favicon_location: "jianzhong.jpg"
+favicon_location: "favicon.png"
 
 footer: yes
 footer_url: "https://github.com/pkuCactus"
