@@ -2,10 +2,10 @@
 layout: paper
 ---
 
-# papers
+## papers
 The below are the paper list read and to read.
 
-## Segmentation
+### Segmentation
 
-## Edge Detection
+### Edge Detection
 
